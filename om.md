@@ -1,4 +1,4 @@
 ---
 title: Om
-permalink: om.md
+permalink: om.html
 ---
